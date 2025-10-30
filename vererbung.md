@@ -1,3 +1,5 @@
+# Vererbung in C#
+
 | Keyword                           | Bedeutung / Verwendung                                                                               | Beispiel                                                                    |
 | --------------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | `class`                           | Deklariert eine Klasse. Kann Basis- oder abgeleitete Klasse sein.                                    | `class Car : Vehicle { }`                                                   |
